@@ -1,4 +1,4 @@
 # AI-Voice-Agent-Call-Routing
 
 ## Payment routing Demo
-![](https://github.com/Champagne-paki/AI-Voice-Agent-Call-Routing/blob/main/WhatsApp%20Audio%202025-03-26%20at%2018.30.45.mp4)
+https://github.com/user-attachments/assets/410baa2f-9180-40fb-84b1-b2c61e11e317
